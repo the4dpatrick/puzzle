@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+* {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: moz-none;
+	-ms-user-select: none;
+	user-select: none;
+}
+>>>>>>> 3abb418b31c89d644e1131adbc076a1e363ff7e9
 body {
 	width: 100%;
 	height: 100%;
